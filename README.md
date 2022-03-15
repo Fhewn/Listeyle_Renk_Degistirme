@@ -1,3 +1,3 @@
 # Listeyle_Renk_Degistirme
 
-```Küçük Çaplı bir çalışma```
+```Küçük çaplı bir çalışma```
